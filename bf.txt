@@ -11,53 +11,53 @@
 <link rel="alternate" type="application/rss+xml" title="<-BlogTitle->" href="<-BlogXmlLink->" />
 
 <style>
-body{font-family:Tahoma;font-size:8pt;background:#FF96FF url('') repeat scroll;}
-.mywebtagservice{direction:rtl;width:980px;}
-a{color:#FFFFFF;text-decoration:none;}
-a:hover{color:#FFFFFF;font-weight:none;font-style:none;text-decoration:none;}
+body{font-family:Tahoma;font-size:8pt;background:#82CDFF url('http://cdn.up.tagservice.ir/bg-bottom-light-flat.webp') no-repeat fixed;}
+.tempkade{direction:rtl;width:980px;}
+a{color:#A1C3FF;text-decoration:none;}
+a:hover{color:#787CFF;font-weight:none;font-style:none;text-decoration:none;}
 
-.li-block{padding:3px 13px 5px 5px;background:url('') 100% 5px no-repeat;}
+.li-block{padding:3px 13px 5px 5px;background:url('http://cdn.up.tagservice.ir/li.png') 100% 5px no-repeat;}
 
-#header{width:960px;height:350px;background:#FFFFFF url('http://dl.tagservice.ir/view/3391211/bahar.jpg') no-repeat center;border-right:2px dashed #FF96FF;border-left:2px dashed #FF96FF;border-top:5px dashed #FF96FF;border-bottom:5px dashed #FF96FF;border-radius:60px 60px 60px 60px;margin-top:0px;margin-bottom:10px;background-size:100%;}
+#header{width:960px;height:350px;background:#A1A4FF url('http://cdn.up.tagservice.ir/5c441893d082f.jpg') no-repeat center;border-right:2px solid #7DF2FF;border-left:2px solid #7DF2FF;border-top:2px solid #7DF2FF;border-bottom:2px solid #7DF2FF;border-radius:10px 10px 10px 10px;margin-top:0px;margin-bottom:10px;background-size:auto;}
 
-.BlogTitle{padding:150px 0px 0px 0px;font-size:14pt;color:#C431AC;font-weight:bold;text-align:center;}
-.Description{padding:10px 0px 0px 0px;font-size:8pt;color:#9E2F9E;text-align:center;}
+.BlogTitle{padding:150px 0px 0px 0px;font-size:14pt;color:#FFFFFF;font-weight:bold;text-align:center;}
+.Description{padding:10px 0px 0px 0px;font-size:8pt;color:#C7E7FF;text-align:center;}
 
-#back-menu{width:880px;padding:3px;background:#8A1D78;border-right:2px none #FF63D6;border-left:2px none #FF63D6;border-top:0px none #FF63D6;border-bottom:0px none #FF63D6;border-radius:0px 0px 0px 0px;margin-top:10px;margin-bottom:5px;}
-.c-menu{padding:6px;font-size:8pt;color:#FFFFFF;text-align:center;}
-.c-menu a{margin:5px;padding:3px;color:#FFFFFF;font-weight:bold;}
-.c-menu a:hover{background:#FF70F1;transition-duration:.5s;-moz-transition-duration:.5s;color:#FFFFFF;border-radius:8px;text-decoration:none;}
+#back-menu{width:880px;padding:3px;background:#8ADCFF;border-right:2px none #99D3FF;border-left:2px none #99D3FF;border-top:0px none #99D3FF;border-bottom:0px none #99D3FF;border-radius:0px 0px 0px 0px;margin-top:10px;margin-bottom:5px;}
+.c-menu{padding:6px;font-size:8pt;color:#7083FF;text-align:center;}
+.c-menu a{margin:5px;padding:3px;color:#7575FF;font-weight:bold;}
+.c-menu a:hover{background:#C4C6FF;transition-duration:.5s;-moz-transition-duration:.5s;color:#6B97FF;border-radius:8px;text-decoration:none;}
 
 #post{float:right;direction:rtl;width:540px;overflow:hidden;}
-.block-post{width:500px;background:#87378A;border-right:2px dashed #BD4B93;border-left:2px dashed #BD4B93;border-top:5px dashed #BD4B93;border-bottom:5px dashed #BD4B93;border-radius:60px 60px 60px 60px;padding:10px 10px 25px 10px;margin-top:8px;margin-bottom:25px;}
-.Top-Post{padding:8px 30px 17px 0px;font-size:8pt;color:#FF45F4;font-weight:bold;text-align:right;border-bottom:2px dotted #BD4B93;border-radius:60px;margin-bottom:15px;}
-.Top-Post a{color:#FF45F4;}
-.Top-Post a:hover{color:#FFFFFF;}
-.C-post{width:100%;font-size:8pt;color:#FFFFFF;text-align:right;overflow:hidden;}
-.C-post a{color:#FFFFFF;}
-.C-post a:hover{color:#FFFFFF;}
-.date-post{width:100%;padding:15px 0px 0px 0px;font-size:8pt;color:#FFFFFF;text-align:center;}
-.date-post a{color:#FFFFFF;}
-.date-post a:hover{color:#FFFFFF;}
+.block-post{width:500px;background:#70A5FF;border-right:2px dashed #BFE8FF;border-left:2px dashed #BFE8FF;border-top:3px dashed #BFE8FF;border-bottom:3px dashed #BFE8FF;border-radius:10px 10px 10px 10px;padding:10px 10px 25px 10px;margin-top:8px;margin-bottom:25px;}
+.Top-Post{padding:8px 30px 17px 0px;font-size:8pt;color:#6B7AFF;font-weight:bold;text-align:right;border-bottom:2px dotted #BFE8FF;border-radius:10px;margin-bottom:15px;}
+.Top-Post a{color:#6B7AFF;}
+.Top-Post a:hover{color:#5EA9FF;}
+.C-post{width:100%;font-size:8pt;color:#6166FF;text-align:right;overflow:hidden;}
+.C-post a{color:#A1C3FF;}
+.C-post a:hover{color:#787CFF;}
+.date-post{width:100%;padding:15px 0px 0px 0px;font-size:8pt;color:#6166FF;text-align:center;}
+.date-post a{color:#A1C3FF;}
+.date-post a:hover{color:#787CFF;}
 
 .pagination{direction:ltr;font-size:8pt;text-align:center;}
-.pagination a{display:inline-block;padding:6px;padding-top:3px;padding-bottom:3px;margin:2px;background:#232323;color:#fff;border:2px solid #ccc;border-radius:60px;text-decoration:none;}
+.pagination a{display:inline-block;padding:6px;padding-top:3px;padding-bottom:3px;margin:2px;background:#232323;color:#fff;border:2px solid #ccc;border-radius:10px;text-decoration:none;}
 .pagination a:hover,.pagination .current,.pagination_current,pagination a.current{background:#ccc;color:#232323;border-color:#232323;}
 
-table tr td{font-size:8pt;color:#FFFFFF;padding:3px 0px 3px 0px;}
+table tr td{font-size:8pt;color:#6166FF;padding:3px 0px 3px 0px;}
 
 #Sidebar{float:right;direction:rtl;width:220px;overflow:hidden;}
-.block-sid{width:180px;background:#91339C;border-right:2px dashed #FF52FF;border-left:2px dashed #FF52FF;border-top:5px dashed #FF52FF;border-bottom:5px dashed #FF52FF;border-radius:60px 60px 60px 60px;padding:10px 8px 35px 8px;margin-top:8px;margin-bottom:25px;}
-.Top-Sid{padding:8px 0px 17px 0px;font-size:8pt;color:#FFFFFF;font-weight:bold;text-align:center;border-bottom:2px dotted #FF52FF;border-radius:60px;margin-bottom:15px;}
-.C-Sid{font-size:8pt;color:#FFFFFF;text-align:right;overflow:hidden;}
-.C-Sid a{color:#FFFFFF;}
-.C-Sid a:hover{color:#FFFFFF;}
+.block-sid{width:180px;background:#8585FF;border-right:2px solid #A6DBFF;border-left:2px solid #A6DBFF;border-top:4px solid #A6DBFF;border-bottom:4px solid #A6DBFF;border-radius:10px 10px 10px 10px;padding:10px 8px 35px 8px;margin-top:8px;margin-bottom:25px;}
+.Top-Sid{padding:8px 0px 17px 0px;font-size:8pt;color:#5EFFF4;font-weight:bold;text-align:center;border-bottom:2px dotted #A6DBFF;border-radius:10px;margin-bottom:15px;}
+.C-Sid{font-size:8pt;color:#7570FF;text-align:right;overflow:hidden;}
+.C-Sid a{color:#9CDBFF;}
+.C-Sid a:hover{color:#A3C8FF;}
 
 .foot{float:right;direction:rtl;width:100%;overflow:hidden;}
-.footer{width:500px;padding:15px 10px 15px 10px;background:#912F94;border-right:2px dashed #FF4AF9;border-left:2px dashed #FF4AF9;border-top:5px dashed #FF4AF9;border-bottom:5px dashed #FF4AF9;border-radius:60px 60px 60px 60px;margin-top:10px;margin-bottom:10px;}
-.c-footer{font-size:8pt;color:#FFFFFF;text-align:center;}
-.c-footer a{color:#FFFFFF;}
-.c-footer a:hover{color:#FFFFFF;}
+.footer{width:500px;padding:15px 10px 15px 10px;background:#80A2FF;border-right:2px dotted #ADD6FF;border-left:2px dotted #ADD6FF;border-top:4px dotted #ADD6FF;border-bottom:4px dotted #ADD6FF;border-radius:5px 5px 5px 5px;margin-top:10px;margin-bottom:10px;}
+.c-footer{font-size:8pt;color:#E8FAFF;text-align:center;}
+.c-footer a{color:#A1FFE9;}
+.c-footer a:hover{color:#584DFF;}
 </style>
 
 <script lang ="javascript">
@@ -93,7 +93,7 @@ return true;
 </head>
 <body>
 
-<div align=center><div class=mywebtagservice>
+<div align=center><div class=tempkade>
 
 <div id=header>
 <div class=BlogTitle><-BlogTitle-></div><div class=Description><-BlogDescription-></div>
@@ -204,6 +204,7 @@ return true;
 <div class=Top-Sid>لینک دوستان</div>
 <div class=C-Sid>
     <!--حذف لینک یا دستکاری از قالب ممنوع است و حرام بوده و ما رضایتی نداریم-->
+
 <div class=li-block><a rel="nofollow" title="مای وب تگ سرویس" href="http://myweb.tagservice.ir" target="_blank">مای وب تگ سرویس</a></div>
 <BlogLinks>
 <div class=li-block><a target="_blank" href="<-LinkUrl->"><-LinkTitle-></a></div>
@@ -216,6 +217,7 @@ return true;
 <div class=Top-Sid>پیوندهای روزانه</div>
 <div class=C-Sid>
     <!--حذف لینک یا دستکاری از قالب ممنوع است و حرام بوده و ما رضایتی نداریم-->
+
 <div class=li-block><a rel="nofollow" title="قالب وبلاگ" href="http://myweb.tagservice.ir" target="_blank">قالب وبلاگ</a></div>
 <BlogLinkDump>
 <div class=li-block><a target="_blank" href="<-LinkUrl->" title="<-LinkDescription->"><-LinkTitle-></a></div>
@@ -243,7 +245,7 @@ return true;
 </div>
 <!--حذف لینک یا دستکاری از قالب ممنوع است و حرام بوده و ما رضایتی نداریم-->
 <div class=foot>
-<div class=footer><div class=c-footer>[ Designed Theme By : <a rel="nofollow" title="مای وب تگ سرویس" href="http://myweb.tagservice.ir" target="_blank" rel="follow,index">مای وب تگ سرویس</a> ]</div></div>
+<div class=footer><div class=c-footer>[ Designed Theme By : <a rel="nofollow" title="تگ سرویس" href="http://myweb.tagservice.ir" target="_blank" rel="follow,index">MY WEB TAGSERVICE.IR</a> ]</div></div>
 </div>
 
 </div></div>
